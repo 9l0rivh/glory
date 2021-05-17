@@ -1,0 +1,27 @@
+.new{
+    color: white;
+    text-decoration: whitesmoke;
+    background-color:white;
+}
+a{
+    margin:50px;
+    text-decoration: whitesmoke;
+    background-color:white;
+    color:black;
+    font-family:"segoe print";
+}
+body{
+background-color:black;
+opacity: 0.6px;
+font-family: "segoe print";
+font-size:15px;
+border: 10px solid white;
+padding:15px;
+color:white;
+}
+h1{
+    color:pink;
+    font-size:48px;
+    font-family: "brush script MT";
+
+}
