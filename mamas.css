@@ -11,7 +11,6 @@ a{
     font-family:"segoe print";
 }
 body{
-background-color:black;
 opacity: 0.6px;
 font-family: "segoe print";
 font-size:15px;
@@ -20,8 +19,9 @@ padding:15px;
 color:white;
 }
 h1{
-    color:pink;
+    color:white;
     font-size:48px;
     font-family: "brush script MT";
 
 }
+
